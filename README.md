@@ -1,6 +1,7 @@
-## Hi there 👋
+## CODEWAR Profile 👋
 ![Codewars](https://github.r2v.ch/codewars?user=realsudipbajgai&theme=gradient&name=true&top_languages=true)
-
+---
+## LEETCODE Profile 👋
 ![Leetcode Stats](https://leetcard.jacoblin.cool/realsudipbajgai?ext=heatmap)
 <!--
 **realsudipbajgai/realsudipbajgai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
